@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">MyWallet</string>
+    <string name="welcome">Seja Bem Vindo</string>
+    <string name="welcome_sub">Ao</string>
+    <string name="frase_welcome">Seu gerenciador de cartões</string>
+    <string name="next">Proximo</string>
+    <string name="add_card">Salvar </string>
+    <string name="del_card">Limpar </string>
+    <string name="edit_card">Editar Cartão</string>
+    <string name="card_credit">Credito</string>
+    <string name="card_debit">Debito</string>
+    <string name="card_business">Empresarial</string>
+    <string name="card_personal">Pessoal</string>
+    <string name="card_national">Nacional</string>
+    <string name="card_international">Internacional</string>
+    <string name="username_card">Apelido do Cartão: </string>
+    <string name="cadastro">Cadastrar</string>
+    <string name="autoria">Autoria do App</string>
+
+    <string name="bank_brazil">Brasil</string>
+    <string name="bank_bradesco">Bradesco</string>
+    <string name="bank_itau">Itau</string>
+    <string name="bank_neon">Neon</string>
+    <string name="bank_nubank">Nubank</string>
+    <string name="bank_next">Next</string>
+    <string name="bank_cooperativa">Cooperativa</string>
+    <string name="bank_caixa">Caixa</string>
+    <string name="bank_c3">C3</string>
+    <string name="bank_crefisa">Crefisa</string>
+    <string name="bank_sicred">Sicred</string>
+
+    <string name="card_flag_american">American Express</string>
+    <string name="card_flag_elo">Elo</string>
+    <string name="card_flag_master">Master Card</string>
+    <string name="card_flag_visa">Visa</string>
+
+    <string name="card_flag">Qual a bandeira do cartão</string>
+    <string name="card_bank">Qual o banco do cartão</string>
+    <string name="card_number">Qual o número do cartão</string>
+    <string name="card_date">Data de Expiração</string>
+    <string name="card_cvv">Digite o codigo CVV2</string>
+    <string name="owner_card_name">Nome escrito no cartão</string>
+    <string name="card_flag_type">Qual o tipo do cartão</string>
+
+
+    <string name="um">5493 8488 9526 4419</string>
+    <string name="dois">5493 8488 9526 4419</string>
+    <string name="tres">5493 8488 9526 4419</string>
+    <string name="quatro">5493 8488 9526 4419</string>
+    <string name="cinco">5493 8488 9526 4419</string>
+    <string name="seis">5493 8488 9526 4419</string>
+    <string name="sete">5493 8488 9526 4419</string>
+    <string name="oito">5493 8488 9526 4419</string>
+    <string name="nove">5493 8488 9526 4419</string>
+    <string name="dez">5493 8488 9526 4419</string>
+
+    <string name="info_card_username">"Apelido do Cartão: "</string>
+    <string name="info_card_function">"Função do Cartão: "</string>
+    <string name="info_card_bank">"Cartão do Banco:  "</string>
+    <string name="info_card_number">"Numero do Cartão: "</string>
+
+    <string name="username_1">WiryFern</string>
+    <string name="username_2">IllustriousIce</string>
+    <string name="username_3">HabitualKincsem</string>
+    <string name="username_4">VoicelessRowdy</string>
+    <string name="username_5">StatuesqueFire</string>
+    <string name="username_6">GarrulousTrucker</string>
+    <string name="username_7">MercifulPotatoes</string>
+    <string name="username_8">XenophilicWoof</string>
+    <string name="username_9">SassyBelch</string>
+    <string name="username_10">ElfinBogart</string>
+
+    <string name="autoria_faculdade">UTFPR — Universidade Tecnológica Federal do Paraná</string>
+    <string name="autoria_nome">Luiz Felipe Moralez Amud</string>
+    <string name="autoria_email">"luizamud@alunos.utfpr.edu.br"</string>
+    <string name="autoria_curso">Analise e Desenvolvimento de Sistemas</string>
+    <string name="autoria_descricao">Esse app tem a funçao de organizar e lhe dar seguranca quanto a todos os seus tipo de cartao enquanto, o app funciona off-line para lhe dar mais comodidade, Bem Vindo ao MyWallet  </string>
+
+
+
+
+</resources>

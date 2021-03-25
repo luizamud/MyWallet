@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bank">
+    <item>@string/bank_bradesco</item>
+    <item>@string/bank_c3</item>
+    <item>@string/bank_cooperativa</item>
+    <item>@string/bank_crefisa</item>
+    <item>@string/bank_itau</item>
+    <item>@string/bank_neon</item>
+    <item>@string/bank_sicred</item>
+    <item>@string/bank_next</item>
+    <item>@string/bank_nubank</item>
+    <item>@string/bank_itau</item>
+    </string-array>
+    <string-array name="function">
+    <item>@string/card_credit</item>
+    <item>@string/card_debit</item>
+    <item>@string/card_debit</item>
+    <item>@string/card_credit</item>
+    <item>@string/card_debit</item>
+    <item>@string/card_credit</item>
+    <item>@string/card_debit</item>
+    <item>@string/card_credit</item>
+    <item>@string/card_credit</item>
+    <item>@string/card_credit</item>
+    </string-array>
+    <string-array name="number">
+    <item>@string/um</item>
+    <item>@string/dois</item>
+    <item>@string/tres</item>
+    <item>@string/quatro</item>
+    <item>@string/cinco</item>
+    <item>@string/seis</item>
+    <item>@string/sete</item>
+    <item>@string/oito</item>
+    <item>@string/nove</item>
+    <item>@string/dez</item>
+    </string-array>
+    <string-array name="apelido">
+        <item>@string/username_1</item>
+        <item>@string/username_2</item>
+        <item>@string/username_3</item>
+        <item>@string/username_4</item>
+        <item>@string/username_5</item>
+        <item>@string/username_6</item>
+        <item>@string/username_7</item>
+        <item>@string/username_8</item>
+        <item>@string/username_9</item>
+        <item>@string/username_10</item>
+    </string-array>
+</resources>
